@@ -1,3 +1,8 @@
+# Class Files
+*.doc
+*.docx
+*.pdf
+
 # Prerequisites
 *.d
 
