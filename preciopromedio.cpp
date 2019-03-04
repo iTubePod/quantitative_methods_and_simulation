@@ -23,11 +23,11 @@ int main()
 	{
 		random = rand() % 100;
 			//North
-			if (random>=20)
-				precio+=99;
+			if (random >= 20)
+				precio += 99;
 			//South
 			else
-				precio+=100;
+				precio += 100;
 	}
 	float res = (float)precio/(float)rounds;
 	cout<<"Precio promedio: "<<res<<endl;
